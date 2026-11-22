@@ -18,7 +18,7 @@ boto3==1.34.34
 # recipe (headings, ingredient table, numbered steps, photos) without us
 # hand-placing a single coordinate.
 reportlab==4.2.5
-Pillow==11.3.0
+Pillow==13.0.0
 
 # Validation
 pydantic==2.5.3
