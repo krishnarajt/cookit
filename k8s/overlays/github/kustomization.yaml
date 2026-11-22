@@ -9,4 +9,4 @@ resources:
 images:
   - name: cookit
     newName: ghcr.io/krishnarajt/cookit
-    newTag: git-initial
+    newTag: git-91ac28ee6a78ec7c2851d20562a5f5e6842ce191
